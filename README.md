@@ -24,8 +24,8 @@ This study proposes an enhanced MC, called ray-unit parallel Marching Cubes (rup
 
 **To Cite rupMC in Publications**
 
-- A paper describing rupMC will be submitted to a scientific journal for publication soon.
-- For now, you may just cite the URL of the source codes of rupMC (https://github.com/HPSCIL/rupMC) in your publications.
+- Please cite the following reference:
+- Yang, X., Yun, S., Guan, Q., Gao, H., 2024. rupMC: a ray-unit parallel marching cubes algorithm on CPU/GPU heterogeneous architectures. International Journal of Digital Earth, doi: 10.1080/17538947.2024.2340583.
 - You may contact the e-mail aurora@cug.edu.cn if you have further questions about the usage of codes and datasets.
 - For any possible research collaboration, please contact Prof. Qingfeng Guan (guanqf@cug.edu.cn).
 
